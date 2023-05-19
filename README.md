@@ -840,7 +840,7 @@ create table tab_favorite (rid int, date datetime, uid int, primary key(rid,uid)
 > III、使用数据库
 >
 > IV、执行文件  .source 文件路径
-
+>
 > I、图形化工具方式
 
 ---
